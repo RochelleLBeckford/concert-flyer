@@ -69,8 +69,8 @@
 
 -   [ ] The &lt;main&gt; element:
     -   [ ] Is where the main information of the webpage will go
--   [ ] The &lt;section&gt; element:
-    -   [ ] This groups together pieces of similar information
+    -   [ ] The &lt;section&gt; element:
+        -   [ ] This groups together pieces of similar information
 
 <br>
 <hr>
@@ -100,3 +100,10 @@
     -   [ ] Will be the structure and skeleton of how the app will appear on the webpageWill be the structure and skeleton of how the app will appear on the webpage
 -   [ ] CSS:
     -   [ ] Encompass the style of the app and give it some flair
+
+<br>
+<hr>
+<br>
+
+-   [ ] Link to visit the webpage:
+    -   [ ] <a href="" target="_blank">rlb-concert-flyer</a>
