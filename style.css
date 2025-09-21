@@ -1,0 +1,105 @@
+/* & Add font to the entire webpage */
+* {
+    font-family: "Handlee";
+}
+
+/* & Styling the Body of the entire webpage */
+body {
+    /* ~ Colors of my VS Code Theme */
+    background-color: #393a55;
+    color: #ff9eb5;
+}
+
+header {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+
+/* & Style the <figure> element */
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* & Styling for the image in the <header> element */
+.img-header {
+    height:205px;
+    /* width: 120px; */
+    width: 50%;
+    /* margin: 5px; */
+    margin: auto;
+    display: block;
+}
+
+/* & This will style the <h1> element */
+h1 {
+    background-color: #ff9eb5;
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-offset: 8px;
+    padding: 10px;
+}
+
+/* & Styling the <main> element with a gradient background */
+.main-info {
+    background: linear-gradient(90deg, #c8efd6 0%, #f8bdd6 50%, #acc8e9 100%)no-repeat;
+    color: black;
+    width: 70%;
+    margin: auto;
+}
+
+/* & This will style the <h2> element */
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-offset: 8px;
+}
+
+/* & This will style the <hr> element under the kpop artist */
+.artist-divider {
+    background: linear-gradient(to right, #8360c3, #2ebf91);
+    height: 10px;
+    width: 35%;
+    border: none;
+    margin: auto;
+}
+
+/* & This will style the <h3> element */
+h3 {
+    text-align: center;
+
+}
+
+/* & This will style the <hr> element seperating night one and two */
+.act-divider {
+    background: linear-gradient(to right, #8360c3, #2ebf91);
+    height: 10px;
+    width: 100%;
+    border: none;
+    margin: auto;
+}
+
+/* & Style the class elments for the sections regarding night 1 and night 2 of the concert */
+#night-1 {
+    text-align: left;
+}
+
+#night-2 {
+    text-align: right;
+}
+
+/* & This will style the Footer section of the webpage */
+footer {
+    /* width: 100%; */
+    width: 70%;
+    text-align: center;
+    bottom: 0;
+    font-size: 18px;
+    margin: auto;
+}
