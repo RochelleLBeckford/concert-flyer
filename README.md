@@ -9,6 +9,7 @@
     -   [ ] CSS is used to create stunning webpages.
     -   [ ] It can enhance the user experience, and can make a webpage unquie and stand out amongst the rest.
     -   [ ] It is absolutely beautiful to see a webpage come to life and become even more beautiful.
+
 <br>
 <hr>
 <br>
@@ -57,11 +58,11 @@
         -   [ ] Is used for all the images on the webpage
 
 -   [ ] The &lt;br&gt; element:
-           -  [ ] Creates a new line in your code and forces whatever comes after to start on a new line
+           -  [ ] Creates a new line in your code and forces whatever comes after to start on a new lin
+
 -   [ ] The &lt;hr&gt; element:
-    -   [ ]  Adds a horizontal line or dividing line across the webpage
+    -   [ ] Adds a horizontal line or dividing line across the webpage
     -   [ ] Used to separate sections or different topics on a webpage
-    -   [ ]
 
 <br>
 <hr>
